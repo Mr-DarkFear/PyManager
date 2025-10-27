@@ -1,5 +1,7 @@
 # 🐍 PyManager — Lightweight Python Package Manager (Dark Theme)
 
+## AUTHOR: **Mr-DarkFear**
+
 **PyManager** is a simple and lightweight Python package manager built with **Tkinter**.  
 It lets you **search, install, uninstall, and update** Python libraries visually — no need to open the terminal.
 
@@ -16,7 +18,7 @@ It lets you **search, install, uninstall, and update** Python libraries visually
 ---
 
 ## 🖥️ Screenshot
-!["icon"](images/PyManager.ico)
+!["icon"](code/images/PyManager.png)
 
 ---
 
